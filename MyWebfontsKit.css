@@ -32,26 +32,26 @@
   
 @font-face {
   font-family: "NeuzeitGroteskBlackExtraCondensed";
-  src: url('webFonts/NeuzeitGroteskBlackExtraCondensed/font.woff2') format('woff2'), url('webFonts/NeuzeitGroteskBlackExtraCondensed/font.woff') format('woff');
+  src: url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBlackExtraCondensed/font.woff2') format('woff2'), url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBlackExtraCondensed/font.woff') format('woff');
 }
 @font-face {
   font-family: "NeuzeitGroteskLight";
-  src: url('webFonts/NeuzeitGroteskLight/font.woff2') format('woff2'), url('webFonts/NeuzeitGroteskLight/font.woff') format('woff');
+  src: url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskLight/font.woff2') format('woff2'), url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskLight/font.woff') format('woff');
 }
 @font-face {
   font-family: "NeuzeitGroteskBlack";
-  src: url('webFonts/NeuzeitGroteskBlack/font.woff2') format('woff2'), url('webFonts/NeuzeitGroteskBlack/font.woff') format('woff');
+  src: url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBlack/font.woff2') format('woff2'), url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBlack/font.woff') format('woff');
 }
 @font-face {
   font-family: "NeuzeitGroteskBold";
-  src: url('webFonts/NeuzeitGroteskBold/font.woff2') format('woff2'), url('webFonts/NeuzeitGroteskBold/font.woff') format('woff');
+  src: url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBold/font.woff2') format('woff2'), url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBold/font.woff') format('woff');
 }
 @font-face {
   font-family: "NeuzeitGroteskBlackCondensed";
-  src: url('webFonts/NeuzeitGroteskBlackCondensed/font.woff2') format('woff2'), url('webFonts/NeuzeitGroteskBlackCondensed/font.woff') format('woff');
+  src: url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBlackCondensed/font.woff2') format('woff2'), url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskBlackCondensed/font.woff') format('woff');
 }
 @font-face {
   font-family: "NeuzeitGroteskRegular";
-  src: url('webFonts/NeuzeitGroteskRegular/font.woff2') format('woff2'), url('webFonts/NeuzeitGroteskRegular/font.woff') format('woff');
+  src: url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskRegular/font.woff2') format('woff2'), url('https://github.com/sabind/86pieces-fonts/raw/refs/heads/main/NeuzeitGroteskRegular/font.woff') format('woff');
 }
 
